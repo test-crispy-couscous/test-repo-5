@@ -1,4 +1,4 @@
-﻿namespace AspnetTemplate.Core.Models;
+﻿namespace TestRepo5.Core.Models;
 
 public abstract class Entity
 {

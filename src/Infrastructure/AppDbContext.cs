@@ -1,7 +1,7 @@
-﻿using AspnetTemplate.Core.Models;
+﻿using TestRepo5.Core.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AspnetTemplate.Infrastructure;
+namespace TestRepo5.Infrastructure;
 
 public class AppDbContext : DbContext
 {
